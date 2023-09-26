@@ -11,8 +11,11 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 [![Linkedin Badge](https://img.shields.io/badge/-emaranowski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emaranowski/)](https://www.linkedin.com/in/emaranowski/)
 [![Gmail Badge](https://img.shields.io/badge/-emaranowski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emaranowski@gmail.com)](mailto:emaranowski@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-emaranowski.com-4ca8c9?style=flat&logo=Google-Chrome&logoColor=white&link=https://emaranowski.com)](https://emaranowski.com)
+<br><br>
 
 ***
+
+<br>
 
 **Languages:**
 
@@ -24,7 +27,7 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<br>
+<br><br>
 
 **ORMs &nbsp; | &nbsp; Frameworks &nbsp; | &nbsp; Tools:**
 
@@ -40,7 +43,7 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-<br>
+<br><br>
 
 **File + Web Hosting &nbsp; | &nbsp; Containers &nbsp; | &nbsp; Testing:**
 
