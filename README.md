@@ -8,7 +8,7 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 
 **Reach me:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-emaranowski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emaranowski/)](https://www.linkedin.com/in/emaranowski/)
+[![Linkedin Badge](https://img.shields.io/badge/-ericamaranowski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-maranowski/)](https://www.linkedin.com/in/erica-maranowski/)
 [![Gmail Badge](https://img.shields.io/badge/-emaranowski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emaranowski@gmail.com)](mailto:emaranowski@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-emaranowski.com-4ca8c9?style=flat&logo=Google-Chrome&logoColor=white&link=https://emaranowski.com)](https://emaranowski.com)
 <br><br>
