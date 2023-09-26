@@ -8,9 +8,16 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 
 **Reach me:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-ericamaranowski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erica-maranowski/)](https://www.linkedin.com/in/erica-maranowski/)
-[![Gmail Badge](https://img.shields.io/badge/-emaranowski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emaranowski@gmail.com)](mailto:emaranowski@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-emaranowski.com-4ca8c9?style=flat&logo=Google-Chrome&logoColor=white&link=https://emaranowski.com)](https://emaranowski.com)
+
+  <a href="https://in.linkedin.com/in/erica-maranowski" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ericamaranowski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="emaranowski LinkedIn"/>
+  </a>
+  <a href="mailto:emaranowski@gmail.com">
+    <img src="https://img.shields.io/badge/emaranowski-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="emaranowski Gmail"/>
+  </a> 
+  <a href="https://emaranowski.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/emaranowski.com-4ca8c9?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="emaranowski personal website"/>
+  </a> 
 <br><br>
 
 ***
