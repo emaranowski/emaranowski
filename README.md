@@ -11,7 +11,7 @@ I grew up below the poverty line, and have traveled to a dozen countries (mainly
 
 ***
 
-**• &nbsp; Languages:**
+**Languages:**
 
 JavaScript &nbsp; | &nbsp;
 Python &nbsp; | &nbsp;
@@ -24,7 +24,7 @@ STATA &nbsp; | &nbsp;
 R
 <br><br>
 
-**• &nbsp; ORMs, Frameworks, Tools:**
+**ORMs, Frameworks, Tools:**
 
 Sequelize &nbsp; | &nbsp;
 SQLAlchemy &nbsp; | &nbsp;
@@ -35,7 +35,7 @@ Redux &nbsp; | &nbsp;
 Jinja
 <br><br>
 
-**• &nbsp; File + Web Hosting, Containers, Testing:**
+**File + Web Hosting, Containers, Testing:**
 
 AWS &nbsp; | &nbsp;
 Netlify &nbsp; | &nbsp;
