@@ -2,7 +2,7 @@
 
 As coding grew into a larger part of my work, it became my central focus. The work that led me here includes SPSS for evaluation of funding distribution and outcomes in economic equity programs; structuring databases for nonprofits; and analysis of B2B and B2C relationships.
 
-I grew up below the poverty line, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). I'm compelled by ambitious people and organizations fostering growth in society. Outside of work, I love sci-fi literature, constantly learning, nutrition, and plants. 🌱 
+I grew up below the poverty line, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). I'm compelled by ambitious people and organizations fostering growth in society. Outside of work, I love sci-fi literature, constantly learning, nutrition, and plants. &nbsp; 🌱 
 
 [emaranowski.com](https://emaranowski.com) &nbsp; | &nbsp; [emaranowski@gmail.com](mailto:emaranowski@gmail.com) &nbsp; | &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski)
 <br>
