@@ -7,11 +7,9 @@ As coding grew into a larger part of my work, it became a natural fit and my eve
 I grew up below the poverty line, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). I'm compelled by ambitious people and organizations fostering growth in society. Outside of work, I love sci-fi literature, plants, nutrition, and constantly learning.
 
 [emaranowski.com](https://emaranowski.com) &nbsp; | &nbsp; [emaranowski@gmail.com](mailto:emaranowski@gmail.com) &nbsp; | &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski)
-<br><br>
+<br>
 
 ***
-
-<br>
 
 **Languages:**
 
