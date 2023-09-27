@@ -1,4 +1,4 @@
-**🌱 Hey, I'm Erica**. I love clean, organized code that works seamlessly for the people who use it. I thrive on perfectionism, solving puzzles, and the satisfaction of building elegant systems. I'm comfortable working on both the frontend and backend in both JavaScript and Python, coming from a background in SPSS for data evaluation.
+**🌱 Hey, I'm Erica**. I love clean code that works seamlessly for those who use it. I thrive on perfectionism, solving puzzles, and the satisfaction of building elegant systems. I'm comfortable working on both the frontend and backend in both JavaScript and Python, coming from a background in SPSS for data evaluation.
 
 As coding grew into a larger part of my work, it became a natural fit and my eventual focus. The work that led me here includes SPSS for evaluation of funding distribution and outcomes in economic equity programs; structuring databases for nonprofits; and analysis of B2B and B2C relationships.
 
