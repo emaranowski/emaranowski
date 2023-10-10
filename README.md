@@ -18,7 +18,7 @@ PostgreSQL &nbsp; | &nbsp;
 HTML5 &nbsp; | &nbsp;
 CSS3 &nbsp; | &nbsp;
 SPSS &nbsp; | &nbsp;
-STATA &nbsp; | &nbsp;
+Stata &nbsp; | &nbsp;
 R
 <br><br>
 
