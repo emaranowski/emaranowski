@@ -35,7 +35,7 @@ Jinja
 
 **File + Web Hosting, Containers, Testing:**
 
-AWS &nbsp; | &nbsp;
+AWS S3 &nbsp; | &nbsp;
 Netlify &nbsp; | &nbsp;
 Render &nbsp; | &nbsp;
 Docker &nbsp; | &nbsp;
