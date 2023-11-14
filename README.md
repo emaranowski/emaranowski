@@ -31,8 +31,7 @@ PostgreSQL &nbsp; | &nbsp;
 Express &nbsp; | &nbsp;
 Flask &nbsp; | &nbsp;
 React &nbsp; | &nbsp;
-Redux &nbsp; | &nbsp;
-Jinja
+Redux
 <br><br>
 
 🔹 &nbsp; **File + Web Hosting, Containers, Testing**
