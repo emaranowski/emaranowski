@@ -1,6 +1,6 @@
 **Hi, I'm Erica**. I love building elegant software that works seamlessly for those who use it. I'm experienced on the backend in Python, Flask, SQLAlchemy, JavaScript, Express, and Sequelize, and on the frontend in JavaScript, React, Redux, and HTML/CSS. I grew into web development after 3.5 years of SPSS for data evaluation and engineering.
 
-I thrive on perfectionism, solving puzzles, and the satisfaction of designing cohesive and performant infrastructure. My background in data informs my focus on organized code, detail, excellent documentation, and technical communication.
+I thrive on perfectionism, organization, solving puzzles, and designing cohesive and performant infrastructure. My background in data informs my attention to detail, excellent documentation, and technical communication.
 
 My past work includes data evaluation of funding at over 50 economic opportunity nonprofits in Oregon; managing statewide survey programs; developing databases; B2B and B2C research; and research on funding and social networks in education.
 
