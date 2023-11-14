@@ -16,9 +16,8 @@ I grew up below the poverty line and have traveled to a dozen countries (mainly 
 JavaScript &nbsp; | &nbsp;
 Python &nbsp; | &nbsp;
 SQL &nbsp; | &nbsp;
-PostgreSQL &nbsp; | &nbsp;
-HTML5 &nbsp; | &nbsp;
-CSS3 &nbsp; | &nbsp;
+HTML &nbsp; | &nbsp;
+CSS &nbsp; | &nbsp;
 SPSS &nbsp; | &nbsp;
 Stata &nbsp; | &nbsp;
 R
@@ -28,6 +27,7 @@ R
 
 Sequelize &nbsp; | &nbsp;
 SQLAlchemy &nbsp; | &nbsp;
+PostgreSQL &nbsp; | &nbsp;
 Express &nbsp; | &nbsp;
 Flask &nbsp; | &nbsp;
 React &nbsp; | &nbsp;
