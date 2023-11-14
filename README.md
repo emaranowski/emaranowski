@@ -2,7 +2,7 @@
 
 My past work includes data evaluation of funding at over 50 economic opportunity nonprofits in Oregon; managing statewide survey programs; developing databases; B2B and B2C research; and research on funding and social networks in public and private education.
 
-I grew up below the poverty line, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). I'm compelled by ambitious people and organizations fostering growth in society. Outside of work, I love sci-fi literature, constantly learning, nutrition, and plants. &nbsp; 🌱 
+I grew up below the poverty line and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). I'm compelled by ambitious people and organizations fostering growth in society. Outside of work, you can catch me reading sci-fi, exercising, and cooking nutritious food. &nbsp; 🌱 
 
 [emaranowski.com](https://emaranowski.com) &nbsp; | &nbsp; [emaranowski@gmail.com](mailto:emaranowski@gmail.com) &nbsp; | &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski)
 <br>
