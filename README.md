@@ -6,7 +6,7 @@ Past work includes data evaluation of statewide funding at over 50 economic oppo
 
 I grew up below the poverty line and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). Outside of work, you can catch me reading sci-fi, exercising, and volunteering.
 
-📄 &nbsp; [Resume](https://www.emaranowski.com/documents/Maranowski-Erica-Resume.pdf) &nbsp; 👤 &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski) &nbsp; 🌐 &nbsp; [emaranowski.com](https://emaranowski.com) &nbsp; ✉️ &nbsp; [emaranowski@gmail.com](mailto:emaranowski@gmail.com)
+👤 &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski) &nbsp; 🌐 &nbsp; [emaranowski.com](https://emaranowski.com) &nbsp; ✉️ &nbsp; [emaranowski@gmail.com](mailto:emaranowski@gmail.com)
 <br>
 
 ***
