@@ -2,7 +2,7 @@
 
 I thrive on designing cohesive and performant infrastructure. My background in data informs my attention to detail, organization, excellent documentation, and technical communication.
 
-Past work includes data evaluation of statewide funding at over 50 economic opportunity nonprofits in Oregon; developing databases; B2B and B2C research; research on funding segregation in public schools; and research on social networks in wealthy education institutions.
+Past work includes data evaluation of statewide funding at over 50 economic opportunity nonprofits in Oregon; developing databases; B2B and B2C research; research on funding segregation in public schools; and research on social networks in wealthy educational institutions.
 
 I grew up below the poverty line and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). Outside of work, you can catch me reading sci-fi, exercising, and volunteering.
 
