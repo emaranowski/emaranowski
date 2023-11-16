@@ -1,4 +1,4 @@
-**Hi, I'm Erica**. I love elegant software that functions seamlessly for users and organizations. On the backend I'm experienced in Flask, SQLAlchemy, Express, and Sequelize, and on the frontend in React and Redux. Previously I worked in SPSS for 3+ years on data evaluation and engineering.
+**Hi, I'm Erica**. I love elegant software that functions seamlessly for users and organizations. On the backend I'm experienced in Flask, SQLAlchemy, Express, and Sequelize, and on the frontend in React and Redux. Previously I worked for 3+ years in data evaluation and engineering using SPSS, a language similar to SQL and R.
 
 I thrive on designing cohesive and performant infrastructure. My background in data informs my attention to detail, organization, excellent documentation, and technical communication.
 
