@@ -2,7 +2,7 @@
 
 I thrive on designing cohesive and performant infrastructure. My background in data informs my attention to detail, organization, excellent documentation, and technical communication.
 
-Past work includes data evaluation of statewide funding at over 50 economic opportunity nonprofits in Oregon; developing databases; B2B and B2C research; and research on equity in public and private education.
+Past work includes statewide data evaluation of funding at over 50 economic opportunity nonprofits in Oregon; developing databases; B2B and B2C research; and research on equity in public and private education.
 
 I grew up in Portland, Oregon, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). Outside of work, you can catch me reading sci-fi, exercising, and volunteering.
 
