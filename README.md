@@ -4,7 +4,7 @@ I thrive on designing cohesive and performant infrastructure. My background in d
 
 Past work includes data evaluation of statewide funding at over 50 economic opportunity nonprofits in Oregon; developing databases; B2B and B2C research; research on funding segregation in public schools; and research on social networks in wealthy educational institutions.
 
-I grew up below the poverty line and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). Outside of work, you can catch me reading sci-fi, exercising, and volunteering.
+I grew up in Portland, Oregon, and have traveled to a dozen countries (mainly Germany, Taiwan, and the Netherlands). Outside of work, you can catch me reading sci-fi, exercising, and volunteering.
 
 👤 &nbsp; [LinkedIn](https://in.linkedin.com/in/erica-maranowski) &nbsp; 🌐 &nbsp; [emaranowski.com](https://emaranowski.com)
 <br>
@@ -25,20 +25,32 @@ R
 
 🔹 &nbsp; **ORMs, Frameworks, Tools**
 
-Sequelize &nbsp; | &nbsp;
-SQLAlchemy &nbsp; | &nbsp;
 PostgreSQL &nbsp; | &nbsp;
-Express &nbsp; | &nbsp;
+SQLAlchemy &nbsp; | &nbsp;
+Sequelize &nbsp; | &nbsp;
 Flask &nbsp; | &nbsp;
+Express &nbsp; | &nbsp;
+FastAPI &nbsp; | &nbsp;
 React &nbsp; | &nbsp;
-Redux
+Redux &nbsp; | &nbsp;
+NestJS &nbsp; | &nbsp;
+Tailwind &nbsp; | &nbsp;
+Node &nbsp; | &nbsp;
+NPM
 <br><br>
 
-🔹 &nbsp; **File + Web Hosting, Containers, Testing**
+🔹 &nbsp; **File + Web Hosting, Testing, Containers**
 
 AWS S3 &nbsp; | &nbsp;
-Netlify &nbsp; | &nbsp;
 Render &nbsp; | &nbsp;
-Docker &nbsp; | &nbsp;
+Netlify &nbsp; | &nbsp;
 Mocha &nbsp; | &nbsp;
-Cypress
+Cypress &nbsp; | &nbsp;
+Docker
+<br><br>
+
+🔹 &nbsp; **Machine Learning + AI**
+
+Weights & Biases &nbsp; | &nbsp;
+LangChain &nbsp; | &nbsp;
+GPT
